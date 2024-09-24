@@ -1,0 +1,36 @@
+body{
+    text-transform: capitalize;
+}
+h1{
+    text-align: center;
+    border: 2px solid gray ;
+    padding: 5px ;
+    text-transform: uppercase;
+    color: brown;
+    letter-spacing: 4px ;
+}
+h2{
+    text-transform: capitalize;
+    color: brown;
+
+
+}
+
+.contents{
+    border: 2px solid brown;
+    padding: 10px ;
+
+}
+input{
+    
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+li{
+    border: 1px solid brown;
+    padding: 15px ;
+    margin-bottom: 10px;
+}
+
